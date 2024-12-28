@@ -38,7 +38,7 @@ Using a backend server to process incoming messages and solve equations. Twilio'
 - Configure the Twilio webhook to point to this URL.
 
 ### **Steps to use**
-1. **Send `join known-apartment` to this number `+14155238886` to join my sandbox**
+1. **Send `join river-across` to this number `+14155238886` to join my sandbox**
 2. **Now you can send an equation and it will reply with the answer**
 
 ### **Live Demo**
