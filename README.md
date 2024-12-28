@@ -31,11 +31,11 @@ Using a backend server to process incoming messages and solve equations. Twilio'
     - Sign up for a [Twilio account](https://www.twilio.com/).
     - Activate the WhatsApp Sandbox.
 2. **Create the Server**:
-    - Used Flask to process incoming messages, as in this File.
-    - Parse the message **manually** to check if it’s an equation without using `eval()` because of its security risks.
+    - Used Flask to process incoming messages, as in the `server.py` file located in the `twilio-api` directory in this repository.
+        - Parse the message **manually** to check if it’s an equation without using `eval()` because of its security risks.
 3. **Export the Server**:
-    - Export the server to a public URL using [ngrok](https://ngrok.com/).
-    - Configure the Twilio webhook to point to this URL.
+- Export the server to a public URL using [ngrok](https://ngrok.com/).
+- Configure the Twilio webhook to point to this URL.
 
 ### **Steps to use**
 1. **Send `join known-apartment` to this number `+14155238886` to join my sandbox**
@@ -65,7 +65,7 @@ Using the WhatsApp Business API to build a bot that solves equations. This metho
 2. **Create the Server**:
     - Use `express` to create a server.
     - Use libraries like `mathjs` for parsing and solving equations.
-    - Use the WhatsApp API to send and receive messages.
+    - Use the WhatsApp API to send and receive messages as in the `appFB.js` file located in the `wp-business` directory in this repository.
 3. **Export the Server**:
     - Export the server to a public URL using [ngrok](https://ngrok.com/).
     - Configure the Whatapp webhook to point to this URL.
