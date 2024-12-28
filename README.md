@@ -42,7 +42,8 @@ Using a backend server to process incoming messages and solve equations. Twilio'
 2. **Now you can send an equation and it will reply with the answer**
 
 ### **Live Demo**
-[![Demo](https://raw.githubusercontent.com/hossamelshamyy/wp-equation-solver/main/twilio_api.png)](https://raw.githubusercontent.com/hossamelshamyy/wp-equation-solver/main/twilio_api.mp4)
+
+https://github.com/user-attachments/assets/d5288cc9-4554-4902-9298-b1cacf0852f7
 
 ---
 
@@ -74,7 +75,9 @@ Using the WhatsApp Business API to build a bot that solves equations. This metho
 2. **After your number being added to the testers list you can start using the chatbot through this number `+1 555 190 5205`**
 
 ### **Live Demo**
-[![Demo](https://raw.githubusercontent.com/hossamelshamyy/wp-equation-solver/main/wp_business_api.png)](https://raw.githubusercontent.com/hossamelshamyy/wp-equation-solver/main/wp_business_api.mp4)
+
+https://github.com/user-attachments/assets/21a739c0-854b-4ba9-ba36-60526afae4d8
+
 ---
 
 ## **3. Using WhatsApp Automation using simulation tools like Selenium**
