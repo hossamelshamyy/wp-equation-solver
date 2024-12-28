@@ -8,12 +8,12 @@ This README explains how I implemented a WhatsApp bot that solves equations for 
     - [Overview](#overview)
     - [Methodology](#methodology)
     - [Steps to use](#steps-to-use)
-    - [Live Demo](#live-demo)
+    - [Recoreded Demo](#recoreded-demo)
 2. [Using Backend Service with WhatsApp Business API](#2-using-backend-service-with-whatsapp-business-api)
     - [Overview](#overview-1)
     - [Methodology](#methodology-1)
     - [Steps to use](#steps-to-use-1)
-    - [Live Demo](#live-demo-1)
+    - [Recoreded Demo](#recoreded-demo-1)
 3. [Using WhatsApp Automation using simulation tools like Selenium](#3-using-whatsapp-automation-using-simulation-tools-like-selenium) (*Not Implemented*)
     - [Overview](#overview-2)
 4. [Low-Code/No-Code Solution](#4-low-codeno-code-solution) (*Not Implemented*)
@@ -41,7 +41,7 @@ Using a backend server to process incoming messages and solve equations. Twilio'
 1. **Send `join river-across` to this number `+14155238886` to join my sandbox**
 2. **Now you can send an equation and it will reply with the answer**
 
-### **Live Demo**
+### **Recoreded Demo**
 
 https://github.com/user-attachments/assets/d5288cc9-4554-4902-9298-b1cacf0852f7
 
@@ -74,7 +74,7 @@ Using the WhatsApp Business API to build a bot that solves equations. This metho
 1. **Send me the number you will use to test the chatbot to add it to list of testers since we are using a testing number, if we plan to use the production version we will need to wait for meta's approval for the business**
 2. **After your number being added to the testers list you can start using the chatbot through this number `+1 555 190 5205`**
 
-### **Live Demo**
+### **Recoreded Demo**
 
 https://github.com/user-attachments/assets/21a739c0-854b-4ba9-ba36-60526afae4d8
 
